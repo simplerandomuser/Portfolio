@@ -24,7 +24,7 @@ function Projects() {
               title="Skallcraft"
               description="Actualmente soy el CEO del servidor SkallCraft"
               ghLink="https://github.com/SkallCraft" // Cambia esto con tu enlace de GitHub
-              demoLink="https://skallcraft.com" // Cambia esto con tu enlace de demostración
+              demoLink="https://www.skallcraft.com" // Cambia esto con tu enlace de demostración
             />
           </Col>
         </Row>

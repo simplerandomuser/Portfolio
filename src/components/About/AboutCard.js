@@ -34,7 +34,7 @@ function AboutCard() {
             "¡Esfuérzate por construir cosas que marquen la diferencia!"{" "}
           </p>
 
-          <footer className="blockquote-footer">Soumyajit</footer>
+          <footer className="blockquote-footer">Rodolfo</footer>
         </blockquote>
       </Card.Body>
     </Card>
